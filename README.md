@@ -24,7 +24,7 @@ This repository contains an automation project focused on the login and registra
 
 ## 🎥 Project Demonstration
 
-https://raw.githubusercontent.com/DewniAlahakoon/OpenCart-Automation-Selenium/main/webapp_automation_demo.mp4
+https://raw.githubusercontent.com/DewniAlahakoon/OpenCart-Automation-Selenium/main/webapp_automation_demo.mp4.mkv
 
 ## 📝 Note
 This project will be expanded in the future to include Cucumber testing for generating reports using the BDD framework.
